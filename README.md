@@ -13,5 +13,5 @@ Mis ejercicios del Common Core de 42 Madrid (Fundación Telefónica).
 |   | [Python Module 00](https://github.com/carlosgilnieto/python_module_00) | 100% ✅  |
 |   | [Python Module 01](https://github.com/carlosgilnieto/python_module_01) | 100% ✅ |
 |   | [Python Module 02](https://github.com/carlosgilnieto/python_module_02) | 100% ✅ |
-|   | [Python Module 03]() | 🔜 Próximamente |
+|   | [Python Module 03](https://github.com/carlosgilnieto/python_module_03) | 100% ✅ |
 |   | [Python Module 04]() | 🔜 Próximamente |
