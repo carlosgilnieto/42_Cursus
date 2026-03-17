@@ -10,10 +10,19 @@ Mis ejercicios del Common Core de 42 Madrid (Fundación Telefónica).
 |   | [get_next_line](https://github.com/carlosgilnieto/get_next_line) | 125% ✅ |
 |   | [Born2beroot](https://github.com/carlosgilnieto/Born2beroot) | 110% ✅ |
 | 2 | [push_swap](https://github.com/carlosgilnieto/push_swap) | 100% ✅ |
-|   | [Python Module 00 - 04](https://github.com/carlosgilnieto/python_modules_00_04) | py00 - 100% ✅ <br> py01 - 100% ✅ <br> py02 - 100% ✅ <br> py03 - 100% ✅ <br> py04 - 100% ✅ |
-|   | [Python Module 05 - 11] | py05 - 100% ✅ <br> py06 - 100% ✅ <br> py07 - 100% ✅ <br> py08 - 100% ✅ <br> py10 - 🔜 <br> py11 - 🔜 |
-|   | [A-Maze-ing] | 🔜 Próximamente |
-|   | [Exam Rank 2] | 🔜 Próximamente |
+|   | [Python Module 00](https://github.com/carlosgilnieto/python_modules_00) | 100% ✅ |
+|   | [Python Module 01](https://github.com/carlosgilnieto/python_modules_01) | 100% ✅ |
+|   | [Python Module 02](https://github.com/carlosgilnieto/python_modules_02) | 100% ✅ |
+|   | [Python Module 03](https://github.com/carlosgilnieto/python_modules_03) | 100% ✅ |
+|   | [Python Module 04](https://github.com/carlosgilnieto/python_modules_04) | 100% ✅ |
+|   | [Python Module 05](https://github.com/carlosgilnieto/python_modules_05) | 100% ✅ |
+|   | [Python Module 06](https://github.com/carlosgilnieto/python_modules_06) | 100% ✅ |
+|   | [Python Module 07](https://github.com/carlosgilnieto/python_modules_07) | 100% ✅ |
+|   | [Python Module 08](https://github.com/carlosgilnieto/python_modules_08) | 100% ✅ |
+|   | [Python Module 09](https://github.com/carlosgilnieto/python_modules_09) | 100% ✅ |
+|   | [Python Module 10](https://github.com/carlosgilnieto/python_modules_10) | 100% ✅ |
+|   | [A-Maze-ing](https://github.com/carlosgilnieto/a-maze-ing) | 106% ✅ |
+|   | *Exam Rank 2* | 100% ✅ |
 | 3 | [Call Me Maybe] | 🔜 Próximamente |
 |   | [Fly-in] | 🔜 Próximamente |
 |   | [Codexion] | 🔜 Próximamente |
