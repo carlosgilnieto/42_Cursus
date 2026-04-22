@@ -25,8 +25,8 @@ Mis ejercicios del Common Core de 42 Madrid (Fundación Telefónica).
 |   | *Exam Rank 2* | 100% ✅ |
 | 3 | [Call Me Maybe] | 🔜 Próximamente |
 |   | [Fly-in](https://github.com/carlosgilnieto/fly-in) | 125% ✅ |
-|   | [Codexion] | 🔜 Próximamente |
-|   | [Exam Rank 3] | 🔜 Próximamente |
+|   | [Codexion](https://github.com/carlosgilnieto/Codexion) |  100% ✅ |
+|   | *Exam Rank 3* | 100% ✅ |
 | 4 | [NetPractice] | 🔜 Próximamente |
 |   | [Pac-Man] | 🔜 Próximamente |
 |   | [RAG against the machine] | 🔜 Próximamente |
