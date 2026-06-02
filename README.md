@@ -23,7 +23,7 @@ Mis ejercicios del Common Core de 42 Madrid (Fundación Telefónica).
 |   | [Python Module 10](https://github.com/carlosgilnieto/python_module_10) | 100% ✅ |
 |   | [A-Maze-ing](https://github.com/carlosgilnieto/a-maze-ing) | 106% ✅ |
 |   | *Exam Rank 2* | 100% ✅ |
-| 3 | [Call Me Maybe] | 🔜 Próximamente |
+| 3 | [Call Me Maybe](https://github.com/carlosgilnieto/call_me_maybe) | 115% ✅ |
 |   | [Fly-in](https://github.com/carlosgilnieto/fly-in) | 125% ✅ |
 |   | [Codexion](https://github.com/carlosgilnieto/Codexion) |  100% ✅ |
 |   | *Exam Rank 3* | 100% ✅ |
